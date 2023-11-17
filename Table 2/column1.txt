@@ -1,60 +1,60 @@
 	(1)
 VARIABLES	curgrade
 	
-nonwhite	-0.0681
+nonwhite	-0.0572
 	(0.111)
-viet_era	-0.530***
+viet_era	-0.537***
 	(0.193)
-officer	3.023***
+officer	3.022***
 	(0.130)
-drafted	-0.113
+drafted	-0.111
 	(0.102)
-mardif	-0.0471
-	(0.0693)
-anyva	1.592***
+curmar	0.0488
+	(0.0840)
+anyva	1.586***
 	(0.0735)
 32b.age_cat#2b.years_serv_cat	0
 	(0)
-32b.age_cat#4.years_serv_cat	0.431**
+32b.age_cat#4.years_serv_cat	0.419*
 	(0.214)
-32b.age_cat#8.years_serv_cat	0.565*
+32b.age_cat#8.years_serv_cat	0.556*
 	(0.316)
-32b.age_cat#13.years_serv_cat	1.049
+32b.age_cat#13.years_serv_cat	1.088
 	(0.732)
-37.age_cat#2b.years_serv_cat	0.497**
+37.age_cat#2b.years_serv_cat	0.487**
 	(0.205)
-37.age_cat#4.years_serv_cat	0.818***
-	(0.199)
-37.age_cat#8.years_serv_cat	1.253***
-	(0.269)
-37.age_cat#13.years_serv_cat	0.424
+37.age_cat#4.years_serv_cat	0.805***
+	(0.200)
+37.age_cat#8.years_serv_cat	1.249***
+	(0.270)
+37.age_cat#13.years_serv_cat	0.416
 	(0.731)
-42.age_cat#2b.years_serv_cat	1.296***
+42.age_cat#2b.years_serv_cat	1.286***
 	(0.207)
-42.age_cat#4.years_serv_cat	0.983***
+42.age_cat#4.years_serv_cat	0.969***
 	(0.195)
-42.age_cat#8.years_serv_cat	0.855***
-	(0.265)
-42.age_cat#13.years_serv_cat	1.159
-	(0.731)
-47.age_cat#2b.years_serv_cat	1.185***
+42.age_cat#8.years_serv_cat	0.838***
+	(0.266)
+42.age_cat#13.years_serv_cat	1.136
+	(0.732)
+47.age_cat#2b.years_serv_cat	1.173***
 	(0.267)
-47.age_cat#4.years_serv_cat	1.003***
+47.age_cat#4.years_serv_cat	0.987***
 	(0.236)
-47.age_cat#8.years_serv_cat	1.139***
-	(0.302)
-47.age_cat#13.years_serv_cat	1.020
+47.age_cat#8.years_serv_cat	1.125***
+	(0.303)
+47.age_cat#13.years_serv_cat	0.981
 	(0.798)
-52.age_cat#2b.years_serv_cat	0.821
+52.age_cat#2b.years_serv_cat	0.805
 	(1.247)
-52.age_cat#4.years_serv_cat	2.041***
-	(0.734)
-52.age_cat#8.years_serv_cat	1.005
+52.age_cat#4.years_serv_cat	2.027***
+	(0.735)
+52.age_cat#8.years_serv_cat	1.040
 	(0.642)
-52.age_cat#13.years_serv_cat	0.374
+52.age_cat#13.years_serv_cat	0.371
 	(0.798)
-Constant	12.54***
-	(0.247)
+Constant	12.49***
+	(0.250)
 	
 Observations	2,388
 R-squared	0.336

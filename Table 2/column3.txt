@@ -1,62 +1,62 @@
 	(1)
 VARIABLES	grade_inc
 	
-nonwhite	0.0550
-	(0.0911)
-viet_era	0.202
+nonwhite	0.0501
+	(0.0913)
+viet_era	0.215
 	(0.159)
-officer	-0.224**
+officer	-0.235**
 	(0.107)
-drafted	-0.265***
+drafted	-0.271***
 	(0.0842)
-mardif	0.108*
-	(0.0571)
-anyva	1.346***
-	(0.0605)
+curmar	0.0615
+	(0.0692)
+anyva	1.349***
+	(0.0606)
 32b.age_cat#2b.years_serv_cat	0
 	(0)
-32b.age_cat#4.years_serv_cat	0.225
-	(0.176)
-32b.age_cat#8.years_serv_cat	0.160
+32b.age_cat#4.years_serv_cat	0.231
+	(0.177)
+32b.age_cat#8.years_serv_cat	0.165
 	(0.260)
-32b.age_cat#13.years_serv_cat	1.280**
-	(0.602)
-37.age_cat#2b.years_serv_cat	0.0491
+32b.age_cat#13.years_serv_cat	1.266**
+	(0.603)
+37.age_cat#2b.years_serv_cat	0.0511
 	(0.169)
-37.age_cat#4.years_serv_cat	0.123
-	(0.164)
-37.age_cat#8.years_serv_cat	0.631***
+37.age_cat#4.years_serv_cat	0.125
+	(0.165)
+37.age_cat#8.years_serv_cat	0.624***
 	(0.222)
-37.age_cat#13.years_serv_cat	-0.396
+37.age_cat#13.years_serv_cat	-0.387
 	(0.602)
 42.age_cat#2b.years_serv_cat	0.214
 	(0.170)
-42.age_cat#4.years_serv_cat	0.302*
+42.age_cat#4.years_serv_cat	0.308*
 	(0.161)
-42.age_cat#8.years_serv_cat	0.375*
+42.age_cat#8.years_serv_cat	0.384*
 	(0.219)
-42.age_cat#13.years_serv_cat	1.460**
-	(0.602)
-47.age_cat#2b.years_serv_cat	-0.146
+42.age_cat#13.years_serv_cat	1.448**
+	(0.603)
+47.age_cat#2b.years_serv_cat	-0.145
 	(0.220)
-47.age_cat#4.years_serv_cat	-0.140
+47.age_cat#4.years_serv_cat	-0.134
 	(0.194)
 47.age_cat#8.years_serv_cat	0.656***
 	(0.249)
-47.age_cat#13.years_serv_cat	-0.468
-	(0.657)
-52.age_cat#2b.years_serv_cat	-0.870
+47.age_cat#13.years_serv_cat	-0.441
+	(0.658)
+52.age_cat#2b.years_serv_cat	-0.889
 	(1.027)
-52.age_cat#4.years_serv_cat	0.119
-	(0.604)
-52.age_cat#8.years_serv_cat	-0.0957
+52.age_cat#4.years_serv_cat	0.0936
+	(0.605)
+52.age_cat#8.years_serv_cat	-0.117
 	(0.529)
-52.age_cat#13.years_serv_cat	0.117
+52.age_cat#13.years_serv_cat	0.122
 	(0.657)
-Constant	0.318
-	(0.203)
+Constant	0.326
+	(0.206)
 	
 Observations	2,388
-R-squared	0.210
+R-squared	0.209
 Standard errors in parentheses	
 *** p<0.01, ** p<0.05, * p<0.1	
